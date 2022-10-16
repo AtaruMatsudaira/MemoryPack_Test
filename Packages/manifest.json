@@ -1,15 +1,5 @@
 {
-  "scopedRegistries": [
-    {
-      "name": "package.openupm.com",
-      "url": "https://package.openupm.com",
-      "scopes": [
-        "com.neuecc.messagepack"
-      ]
-    }
-  ],
   "dependencies": {
-    "com.neuecc.messagepack": "2.4.35",
     "com.cysharp.memorypack": "https://github.com/Cysharp/MemoryPack.git?path=src/MemoryPack.Unity/Assets/Plugins/MemoryPack",
     "com.unity.collab-proxy": "1.17.2",
     "com.unity.feature.development": "1.0.1",
