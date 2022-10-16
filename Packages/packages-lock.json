@@ -7,6 +7,13 @@
       "dependencies": {},
       "hash": "fd750f86e67698c139c33aa5ddcdfbd4847d95c7"
     },
+    "com.neuecc.messagepack": {
+      "version": "2.4.35",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
     "com.unity.collab-proxy": {
       "version": "1.17.2",
       "depth": 0,
